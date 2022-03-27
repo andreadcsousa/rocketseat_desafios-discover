@@ -2,13 +2,12 @@
 # Desafios Rocketseat Discover
 
 Enquanto assisto as aulas da Trilha Discover, realizo os desafios propostos.
-
-
-
+Irei listar os já realizados abaixo
 
 ## Referência
 
  - [Desafios HTML](https://efficient-sloth-d85.notion.site/Desafios-HTML-ed0f6368d34d44ffab92686b9dc93229)
+ - [Desafio Social Tree](https://efficient-sloth-d85.notion.site/Desafio-Social-Tree-a4008e467a3248c4b05c97cf78aea44f)
 
 ## Demonstração
 
@@ -42,5 +41,4 @@ Enquanto assisto as aulas da Trilha Discover, realizo os desafios propostos.
 
 ## Habilidades
 
-Para este projeto foi necessário apenas HTML básico.
-
+Para estes projetos foram necessários apenas HTML e CSS.
