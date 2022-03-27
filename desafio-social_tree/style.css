@@ -17,6 +17,10 @@ body {
   text-decoration: none;
 }
 
+.insta-perfil:hover {
+    font-weight: 600;
+}
+
 .links {
   color: #bb99dd;
   border: 2px solid #bb99dd;
@@ -27,7 +31,16 @@ body {
   text-decoration: none;
 }
 
+.links:hover {
+    color: #FAF7FD;
+    background-color: #bb99dd;
+}
+
 .insta-redes {
   padding: 0 10px;
   text-decoration: none;
+}
+
+.insta-redes img:hover {
+    transform: scaleX(1.4) scaleY(1.4);
 }
