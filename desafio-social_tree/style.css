@@ -1,7 +1,7 @@
 body {
-    font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   text-align: center;
-  background-color: #FAF7FD;
+  background-color: #faf7fd;
 }
 
 .perfil {
@@ -18,7 +18,7 @@ body {
 }
 
 .insta-perfil:hover {
-    font-weight: 600;
+  font-weight: 600;
 }
 
 .links {
@@ -32,8 +32,8 @@ body {
 }
 
 .links:hover {
-    color: #FAF7FD;
-    background-color: #bb99dd;
+  color: #faf7fd;
+  background-color: #bb99dd;
 }
 
 .insta-redes {
@@ -42,5 +42,5 @@ body {
 }
 
 .insta-redes img:hover {
-    transform: scaleX(1.4) scaleY(1.4);
+  transform: scaleX(1.4) scaleY(1.4);
 }
