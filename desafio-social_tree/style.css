@@ -1,0 +1,32 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+.perfil {
+    width: 200px;
+    border-radius: 100%;
+    border: 2px solid #BB99DD;
+    padding: 5px;
+    margin: 30px 0;
+}
+
+.insta-perfil {
+    color: #BB99DD;
+    text-decoration: none;
+}
+
+.links {
+    color: #BB99DD;
+    border: 2px solid #BB99DD;
+    padding: 10px 120px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.insta-redes {
+    padding: 0 10px;
+    text-decoration: none;
+}
